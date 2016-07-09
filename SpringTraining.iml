@@ -118,5 +118,8 @@
     <orderEntry type="library" name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.3.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-mobile:1.3.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.mobile:spring-mobile-device:1.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.hazelcast:hazelcast-client:3.6.4" level="project" />
+    <orderEntry type="library" name="Maven: com.hazelcast:hazelcast-spring:3.5.5" level="project" />
+    <orderEntry type="library" name="Maven: com.hazelcast:hazelcast:3.6.4" level="project" />
   </component>
 </module>
